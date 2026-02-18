@@ -1,0 +1,184 @@
+=== Row 10 ===
+A10: S.NO
+B10: REGISTER .NO
+C10: NAMES
+D10: CO1
+E10: CO1
+F10: CO1
+G10: CO1
+H10: CO1
+I10: CO1
+J10: CO1
+K10: CO1
+L10: CO2
+M10: CO2
+N10: CO2
+O10: CO2
+P10: CO2
+Q10: CO2
+R10: CO2
+S10: CO3
+T10: CO3
+U10: CO3
+V10: CO3
+W10: CO3
+X10: CO3
+Y10: CO3
+Z10: CO4
+AA10: CO4
+AB10: CO4
+AC10: CO4
+AD10: CO4
+AE10: CO4
+AF10: CO4
+AG10: CO5
+AH10: CO5
+AI10: CO5
+AJ10: CO5
+AK10: CO5
+AL10: CO5
+AM10: CO5
+
+=== Row 11 ===
+A11: S.NO
+B11: REGISTER .NO
+C11: NAMES
+D11: CIA
+F11: [object Object]
+G11: Assessment
+J11: [object Object]
+K11: CIA (50%) + Assessment (50%)
+L11: CIA
+M11: [object Object]
+O11: Assessment
+Q11: [object Object]
+R11: CIA (50%) + Assessment (50%)
+S11: CIA
+U11: [object Object]
+V11: Assessment
+X11: [object Object]
+Y11: CIA (50%) + Assessment (50%)
+Z11: CIA
+AB11: [object Object]
+AC11: Assessment
+AE11: [object Object]
+AF11: CIA (50%) + Assessment (50%)
+AG11: CIA
+AI11: [object Object]
+AJ11: Assessment
+AL11: [object Object]
+AM11: CIA (50%) + Assessment (50%)
+
+=== Row 12 ===
+A12: S.NO
+B12: REGISTER .NO
+C12: NAMES
+D12: [object Object]
+F12: [object Object]
+G12: [object Object]
+J12: [object Object]
+K12: CIA (50%) + Assessment (50%)
+L12: [object Object]
+M12: [object Object]
+N12: [object Object]
+O12: [object Object]
+Q12: [object Object]
+R12: CIA (50%) + Assessment (50%)
+S12: [object Object]
+U12: [object Object]
+V12: [object Object]
+X12: [object Object]
+Y12: CIA (50%) + Assessment (50%)
+Z12: [object Object]
+AB12: [object Object]
+AC12: [object Object]
+AE12: [object Object]
+AF12: CIA (50%) + Assessment (50%)
+AG12: [object Object]
+AI12: [object Object]
+AJ12: [object Object]
+AL12: [object Object]
+AM12: CIA (50%) + Assessment (50%)
+AR12: null
+
+=== Row 13 ===
+A13: Val=1 Formula=undefined
+B13: Val=720822103064 Formula=undefined
+C13: Val="HARIPRASAD R S" Formula=undefined
+D13: Val={"formula":"'CIA '!D14","result":28} Formula="'CIA '!D14"
+E13: Val={"formula":"D13/49*100","result":57.14285714285714} Formula="D13/49*100"
+F13: Val={"formula":"IF(E13>65,\"Y\",\"N\")","result":"N"} Formula="IF(E13>65,\"Y\",\"N\")"
+G13: Val={"formula":"Assessment!D14+Assessment!J14+Assessment!P14+Assessment!V14","result":20} Formula="Assessment!D14+Assessment!J14+Assessment!P14+Assessment!V14"
+H13: Val={"formula":"G13/20*3","result":3} Formula="G13/20*3"
+I13: Val={"formula":"G13/20*100","result":100} Formula="G13/20*100"
+J13: Val={"formula":"IF(I13>65,\"Y\",\"N\")","result":"Y"} Formula="IF(I13>65,\"Y\",\"N\")"
+K13: Val={"formula":"(60*D13/$D$12)+(40*G13/$G$12)","result":74.28571428571428} Formula="(60*D13/$D$12)+(40*G13/$G$12)"
+L13: Val={"formula":"'CIA '!M14","result":21} Formula="'CIA '!M14"
+M13: Val={"formula":"L13/34*100","result":61.76470588235294} Formula="L13/34*100"
+N13: Val={"formula":"IF(E13>65,\"Y\",\"N\")","result":"N"} Formula="IF(E13>65,\"Y\",\"N\")"
+O13: Val={"formula":"Assessment!E14+Assessment!K14+Assessment!Q14+Assessment!W14","result":20} Formula="Assessment!E14+Assessment!K14+Assessment!Q14+Assessment!W14"
+P13: Val={"formula":"O13/20*100","result":100} Formula="O13/20*100"
+Q13: Val={"formula":"IF(P13>65,\"Y\",\"N\")","result":"Y"} Formula="IF(P13>65,\"Y\",\"N\")"
+R13: Val={"formula":"(60*L13/$D$12)+(40*O13/$G$12)","result":65.71428571428572} Formula="(60*L13/$D$12)+(40*O13/$G$12)"
+S13: Val={"formula":"'CIA '!N14","result":33} Formula="'CIA '!N14"
+T13: Val={"formula":"S13/49*100","result":67.3469387755102} Formula="S13/49*100"
+U13: Val={"formula":"IF(T13>65,\"Y\",\"N\")","result":"Y"} Formula="IF(T13>65,\"Y\",\"N\")"
+V13: Val={"formula":"Assessment!F14+Assessment!L14+Assessment!R14+Assessment!X14","result":12.6} Formula="Assessment!F14+Assessment!L14+Assessment!R14+Assessment!X14"
+W13: Val={"formula":"V13/12.6*100","result":100} Formula="V13/12.6*100"
+X13: Val={"formula":"IF(W13>65,\"Y\",\"N\")","result":"Y"} Formula="IF(W13>65,\"Y\",\"N\")"
+Y13: Val={"formula":"(60*S13/$D$12)+(40*V13/$G$12)","result":65.60816326530612} Formula="(60*S13/$D$12)+(40*V13/$G$12)"
+Z13: Val={"formula":"'CIA '!O14","result":25} Formula="'CIA '!O14"
+AA13: Val={"formula":"Z13/34*100","result":73.52941176470588} Formula="Z13/34*100"
+AB13: Val={"formula":"IF(AA13>65,\"Y\",\"N\")","result":"Y"} Formula="IF(AA13>65,\"Y\",\"N\")"
+AC13: Val={"formula":"Assessment!G14+Assessment!M14+Assessment!S14+Assessment!Y14","result":13.7} Formula="Assessment!G14+Assessment!M14+Assessment!S14+Assessment!Y14"
+AD13: Val={"formula":"AC13/13.7*100","result":100} Formula="AC13/13.7*100"
+AE13: Val={"formula":"IF(AD13>65,\"Y\",\"N\")","result":"Y"} Formula="IF(AD13>65,\"Y\",\"N\")"
+AF13: Val={"formula":"(60*Z13/$D$12)+(40*AC13/$G$12)","result":58.01224489795918} Formula="(60*Z13/$D$12)+(40*AC13/$G$12)"
+AG13: Val={"formula":"'CIA '!P14","result":32} Formula="'CIA '!P14"
+AH13: Val={"formula":"AG13/34*100","result":94.11764705882352} Formula="AG13/34*100"
+AI13: Val={"formula":"IF(AH13>65,\"Y\",\"N\")","result":"Y"} Formula="IF(AH13>65,\"Y\",\"N\")"
+AJ13: Val={"formula":"Assessment!H14+Assessment!N14+Assessment!T14+Assessment!Z14","result":13.7} Formula="Assessment!H14+Assessment!N14+Assessment!T14+Assessment!Z14"
+AK13: Val={"formula":"AJ13/13.7*100","result":100} Formula="AJ13/13.7*100"
+AL13: Val={"formula":"IF(AK13>65,\"Y\",\"N\")","result":"Y"} Formula="IF(AK13>65,\"Y\",\"N\")"
+AM13: Val={"formula":"(60*AG13/$D$12)+(40*AJ13/$G$12)","result":66.58367346938775} Formula="(60*AG13/$D$12)+(40*AJ13/$G$12)"
+
+=== Row 15 ===
+A15: Val=3 Formula=undefined
+B15: Val=720822103066 Formula=undefined
+C15: Val="HARISH J" Formula=undefined
+D15: Val={"formula":"'CIA '!D16","result":20} Formula="'CIA '!D16"
+E15: Val={"result":40.816326530612244,"sharedFormula":"E14"} Formula="D15/49*100"
+F15: Val={"formula":"IF(E15>65,\"Y\",\"N\")","result":"N"} Formula="IF(E15>65,\"Y\",\"N\")"
+G15: Val={"formula":"Assessment!D16+Assessment!J16+Assessment!P16+Assessment!V16","result":19} Formula="Assessment!D16+Assessment!J16+Assessment!P16+Assessment!V16"
+H15: Val={"formula":"G15/20*3","result":2.8499999999999996} Formula="G15/20*3"
+I15: Val={"formula":"G15/20*100","result":95} Formula="G15/20*100"
+J15: Val={"result":"Y","sharedFormula":"J14"} Formula="IF(I15>65,\"Y\",\"N\")"
+K15: Val={"formula":"(60*D15/$D$12)+(40*G15/$G$12)","result":62.48979591836735} Formula="(60*D15/$D$12)+(40*G15/$G$12)"
+L15: Val={"formula":"'CIA '!M16","result":4} Formula="'CIA '!M16"
+M15: Val={"result":11.76470588235294,"sharedFormula":"M14"} Formula="L15/34*100"
+N15: Val={"formula":"IF(E15>65,\"Y\",\"N\")","result":"N"} Formula="IF(E15>65,\"Y\",\"N\")"
+O15: Val={"formula":"Assessment!E16+Assessment!K16+Assessment!Q16+Assessment!W16","result":19} Formula="Assessment!E16+Assessment!K16+Assessment!Q16+Assessment!W16"
+P15: Val={"result":95,"sharedFormula":"P14"} Formula="O15/20*100"
+Q15: Val={"result":"Y","sharedFormula":"Q14"} Formula="IF(P15>65,\"Y\",\"N\")"
+R15: Val={"formula":"(60*L15/$D$12)+(40*O15/$G$12)","result":42.89795918367347} Formula="(60*L15/$D$12)+(40*O15/$G$12)"
+S15: Val={"formula":"'CIA '!N16"} Formula="'CIA '!N16"
+T15: Val={"sharedFormula":"T14"} Formula="S15/49*100"
+U15: Val={"result":"N","sharedFormula":"U14"} Formula="IF(T15>65,\"Y\",\"N\")"
+V15: Val={"formula":"Assessment!F16+Assessment!L16+Assessment!R16+Assessment!X16","result":12.2} Formula="Assessment!F16+Assessment!L16+Assessment!R16+Assessment!X16"
+W15: Val={"result":96.82539682539682,"sharedFormula":"W14"} Formula="V15/12.6*100"
+X15: Val={"result":"Y","sharedFormula":"X14"} Formula="IF(W15>65,\"Y\",\"N\")"
+Y15: Val={"formula":"(60*S15/$D$12)+(40*V15/$G$12)","result":24.4} Formula="(60*S15/$D$12)+(40*V15/$G$12)"
+Z15: Val={"formula":"'CIA '!O16","result":2} Formula="'CIA '!O16"
+AA15: Val={"result":5.88235294117647,"sharedFormula":"AA14"} Formula="Z15/34*100"
+AB15: Val={"result":"N","sharedFormula":"AB14"} Formula="IF(AA15>65,\"Y\",\"N\")"
+AC15: Val={"formula":"Assessment!G16+Assessment!M16+Assessment!S16+Assessment!Y16","result":13.4} Formula="Assessment!G16+Assessment!M16+Assessment!S16+Assessment!Y16"
+AD15: Val={"result":97.8102189781022,"sharedFormula":"AD14"} Formula="AC15/13.7*100"
+AE15: Val={"result":"Y","sharedFormula":"AE14"} Formula="IF(AD15>65,\"Y\",\"N\")"
+AF15: Val={"formula":"(60*Z15/$D$12)+(40*AC15/$G$12)","result":29.248979591836736} Formula="(60*Z15/$D$12)+(40*AC15/$G$12)"
+AG15: Val={"formula":"'CIA '!P16","result":5} Formula="'CIA '!P16"
+AH15: Val={"result":14.705882352941178,"sharedFormula":"AH14"} Formula="AG15/34*100"
+AI15: Val={"result":"N","sharedFormula":"AI14"} Formula="IF(AH15>65,\"Y\",\"N\")"
+AJ15: Val={"formula":"Assessment!H16+Assessment!N16+Assessment!T16+Assessment!Z16","result":13.4} Formula="Assessment!H16+Assessment!N16+Assessment!T16+Assessment!Z16"
+AK15: Val={"result":97.8102189781022,"sharedFormula":"AK14"} Formula="AJ15/13.7*100"
+AL15: Val={"result":"Y","sharedFormula":"AL14"} Formula="IF(AK15>65,\"Y\",\"N\")"
+AM15: Val={"formula":"(60*AG15/$D$12)+(40*AJ15/$G$12)","result":32.922448979591834} Formula="(60*AG15/$D$12)+(40*AJ15/$G$12)"

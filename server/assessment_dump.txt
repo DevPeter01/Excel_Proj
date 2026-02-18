@@ -1,0 +1,321 @@
+=== Row 1 ===
+[A1]: "HINDUSTHAN INSTITUTE OF TECHNOLOGY"
+[B1]: "HINDUSTHAN INSTITUTE OF TECHNOLOGY"
+[C1]: "HINDUSTHAN INSTITUTE OF TECHNOLOGY"
+[D1]: "HINDUSTHAN INSTITUTE OF TECHNOLOGY"
+[E1]: "HINDUSTHAN INSTITUTE OF TECHNOLOGY"
+[F1]: "HINDUSTHAN INSTITUTE OF TECHNOLOGY"
+[G1]: "HINDUSTHAN INSTITUTE OF TECHNOLOGY"
+[H1]: "HINDUSTHAN INSTITUTE OF TECHNOLOGY"
+
+=== Row 2 ===
+[A2]: "COIMBATORE-32"
+[B2]: "COIMBATORE-32"
+[C2]: "COIMBATORE-32"
+[D2]: "COIMBATORE-32"
+[E2]: "COIMBATORE-32"
+[F2]: "COIMBATORE-32"
+[G2]: "COIMBATORE-32"
+[H2]: "COIMBATORE-32"
+
+=== Row 3 ===
+[A3]: "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+[B3]: "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+[C3]: "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+[D3]: "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+[E3]: "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+[F3]: "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+[G3]: "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+[H3]: "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+
+=== Row 4 ===
+[A4]: {"formula":"MATRIX!A1 &\"   \"&MATRIX!C3","result":"COURSE OUTCOME ASSESSMENT   2022 - 2023 (ODD)"}
+[B4]: {"formula":"MATRIX!A1 &\"   \"&MATRIX!C3","result":"COURSE OUTCOME ASSESSMENT   2022 - 2023 (ODD)"}
+[C4]: {"formula":"MATRIX!A1 &\"   \"&MATRIX!C3","result":"COURSE OUTCOME ASSESSMENT   2022 - 2023 (ODD)"}
+[D4]: {"formula":"MATRIX!A1 &\"   \"&MATRIX!C3","result":"COURSE OUTCOME ASSESSMENT   2022 - 2023 (ODD)"}
+[E4]: {"formula":"MATRIX!A1 &\"   \"&MATRIX!C3","result":"COURSE OUTCOME ASSESSMENT   2022 - 2023 (ODD)"}
+[F4]: {"formula":"MATRIX!A1 &\"   \"&MATRIX!C3","result":"COURSE OUTCOME ASSESSMENT   2022 - 2023 (ODD)"}
+[G4]: {"formula":"MATRIX!A1 &\"   \"&MATRIX!C3","result":"COURSE OUTCOME ASSESSMENT   2022 - 2023 (ODD)"}
+[H4]: {"formula":"MATRIX!A1 &\"   \"&MATRIX!C3","result":"COURSE OUTCOME ASSESSMENT   2022 - 2023 (ODD)"}
+
+=== Row 5 ===
+[A5]: {"formula":"MATRIX!A4","result":"Course Code"}
+[B5]: {"formula":"MATRIX!A4","result":"Course Code"}
+[C5]: {"formula":"MATRIX!C4","result":"20CS"}
+[D5]: {"formula":"MATRIX!C4","result":"20CS"}
+[E5]: {"formula":"MATRIX!C4","result":"20CS"}
+[F5]: {"formula":"MATRIX!C4","result":"20CS"}
+[G5]: {"formula":"MATRIX!C4","result":"20CS"}
+[H5]: {"formula":"MATRIX!C4","result":"20CS"}
+
+=== Row 6 ===
+[A6]: {"formula":"MATRIX!A5","result":"Course Name"}
+[B6]: {"formula":"MATRIX!A5","result":"Course Name"}
+[C6]: {"formula":"MATRIX!C5","result":"ABC"}
+[D6]: {"formula":"MATRIX!C5","result":"ABC"}
+[E6]: {"formula":"MATRIX!C5","result":"ABC"}
+[F6]: {"formula":"MATRIX!C5","result":"ABC"}
+[G6]: {"formula":"MATRIX!C5","result":"ABC"}
+[H6]: {"formula":"MATRIX!C5","result":"ABC"}
+
+=== Row 7 ===
+[A7]: {"formula":"MATRIX!A6","result":"Staff handling"}
+[B7]: {"formula":"MATRIX!A6","result":"Staff handling"}
+[C7]: {"formula":"MATRIX!C6"}
+[D7]: {"formula":"MATRIX!C6"}
+[E7]: {"formula":"MATRIX!C6"}
+[F7]: {"formula":"MATRIX!C6"}
+[G7]: {"formula":"MATRIX!C6"}
+[H7]: {"formula":"MATRIX!C6"}
+
+=== Row 8 ===
+[A8]: "Name of the Test"
+[B8]: "Name of the Test"
+[C8]: {"formula":"MID(CELL(\"filename\",A1),FIND(\"]\",CELL(\"filename\",A1))+1,256)","result":"Assessment"}
+[D8]: {"formula":"MID(CELL(\"filename\",A1),FIND(\"]\",CELL(\"filename\",A1))+1,256)","result":"Assessment"}
+[E8]: {"formula":"MID(CELL(\"filename\",A1),FIND(\"]\",CELL(\"filename\",A1))+1,256)","result":"Assessment"}
+[F8]: {"formula":"MID(CELL(\"filename\",A1),FIND(\"]\",CELL(\"filename\",A1))+1,256)","result":"Assessment"}
+[G8]: {"formula":"MID(CELL(\"filename\",A1),FIND(\"]\",CELL(\"filename\",A1))+1,256)","result":"Assessment"}
+[H8]: {"formula":"MID(CELL(\"filename\",A1),FIND(\"]\",CELL(\"filename\",A1))+1,256)","result":"Assessment"}
+
+=== Row 9 ===
+
+=== Row 10 ===
+
+=== Row 11 ===
+[A11]: "S.NO"
+[B11]: "REGISTER .NO"
+[C11]: "NAMES"
+[D11]: "Assignments"
+[E11]: "Assignments"
+[F11]: "Assignments"
+[G11]: "Assignments"
+[H11]: "Assignments"
+[I11]: "Assignments"
+[J11]: "Assessment Component 1"
+[K11]: "Assessment Component 1"
+[L11]: "Assessment Component 1"
+[M11]: "Assessment Component 1"
+[N11]: "Assessment Component 1"
+[O11]: "Assessment Component 1"
+[P11]: "Assessment Component 2"
+[Q11]: "Assessment Component 2"
+[R11]: "Assessment Component 2"
+[S11]: "Assessment Component 2"
+[T11]: "Assessment Component 2"
+[U11]: "Assessment Component 2"
+[V11]: "Assessment Component 3"
+[W11]: "Assessment Component 3"
+[X11]: "Assessment Component 3"
+[Y11]: "Assessment Component 3"
+[Z11]: "Assessment Component 3"
+[AA11]: "Assessment Component 3"
+
+=== Row 12 ===
+[A12]: "S.NO"
+[B12]: "REGISTER .NO"
+[C12]: "NAMES"
+[D12]: "CO1"
+[E12]: "CO2"
+[F12]: "CO3"
+[G12]: "CO4"
+[H12]: "CO5"
+[I12]: "CO6"
+[J12]: "CO1"
+[K12]: "CO2"
+[L12]: "CO3"
+[M12]: "CO4"
+[N12]: "CO5"
+[O12]: "CO6"
+[P12]: "CO1"
+[Q12]: "CO2"
+[R12]: "CO3"
+[S12]: "CO4"
+[T12]: "CO5"
+[U12]: "CO6"
+[V12]: "CO1"
+[W12]: "CO2"
+[X12]: "CO3"
+[Y12]: "CO4"
+[Z12]: "CO5"
+[AA12]: "CO6"
+
+=== Row 13 ===
+[A13]: "S.NO"
+[B13]: "REGISTER .NO"
+[C13]: "NAMES"
+[D13]: 5
+[E13]: 5
+[F13]: 3
+[G13]: 3.5
+[H13]: 3.5
+[J13]: 5
+[K13]: 5
+[L13]: 3
+[M13]: 3.5
+[N13]: 3.5
+[P13]: 10
+[Q13]: 10
+[R13]: 6.6
+[S13]: 6.7
+[T13]: 6.7
+
+=== Row 14 ===
+[A14]: 1
+[B14]: 720822103064
+[C14]: "HARIPRASAD R S"
+[D14]: 5
+[E14]: 5
+[F14]: 3
+[G14]: 3.5
+[H14]: 3.5
+[J14]: 5
+[K14]: 5
+[L14]: 3
+[M14]: 3.5
+[N14]: 3.5
+[P14]: 10
+[Q14]: 10
+[R14]: 6.6
+[S14]: 6.7
+[T14]: 6.7
+
+=== Row 15 ===
+[A15]: 2
+[B15]: 720822103065
+[C15]: "Harish.B"
+[D15]: 4
+[E15]: 4
+[F15]: 3
+[G15]: 3.5
+[H15]: 3.5
+[J15]: 5
+[K15]: 5
+[L15]: 3
+[M15]: 3.5
+[N15]: 3.5
+[P15]: 10
+[Q15]: 10
+[R15]: 6.6
+[S15]: 6.7
+[T15]: 6.7
+
+=== Row 16 ===
+[A16]: 3
+[B16]: 720822103066
+[C16]: "HARISH J"
+[D16]: 4
+[E16]: 4
+[F16]: 3
+[G16]: 3.5
+[H16]: 3.5
+[J16]: 5
+[K16]: 5
+[L16]: 3
+[M16]: 3.5
+[N16]: 3.5
+[P16]: 10
+[Q16]: 10
+[R16]: 6.2
+[S16]: 6.4
+[T16]: 6.4
+
+=== Row 17 ===
+[A17]: 4
+[B17]: 720822103067
+[C17]: "HARISH P"
+[D17]: 5
+[E17]: 5
+[F17]: 3
+[G17]: 3.5
+[H17]: 3.5
+[J17]: 5
+[K17]: 5
+[L17]: 3
+[M17]: 3.5
+[N17]: 3.5
+[P17]: 10
+[Q17]: 10
+[R17]: 6.6
+[S17]: 6.7
+[T17]: 6.7
+
+=== Row 18 ===
+[A18]: 5
+[B18]: 720822103068
+[C18]: "HARSHA VARDHINI. M"
+[D18]: 4
+[E18]: 4
+[F18]: 3
+[G18]: 3.5
+[H18]: 3.5
+[J18]: 5
+[K18]: 5
+[L18]: 3
+[M18]: 3.5
+[N18]: 3.5
+[P18]: 10
+[Q18]: 10
+[R18]: 6.6
+[S18]: 6.7
+[T18]: 6.7
+
+=== Row 19 ===
+[A19]: 6
+[B19]: 720822103069
+[C19]: "HEMANTH YASH .R"
+[D19]: 4
+[E19]: 3
+[F19]: 3
+[G19]: 3.5
+[H19]: 3.5
+[J19]: 5
+[K19]: 5
+[L19]: 3
+[M19]: 3.5
+[N19]: 3.5
+[P19]: 10
+[Q19]: 10
+[R19]: 6.6
+[S19]: 6.7
+[T19]: 6.7
+
+=== Row 20 ===
+[A20]: 7
+[B20]: 720822103070
+[C20]: "IRULAPPER A.R"
+[D20]: 5
+[E20]: 5
+[F20]: 3
+[G20]: 3.5
+[H20]: 3.5
+[J20]: 5
+[K20]: 5
+[L20]: 3
+[M20]: 3.5
+[N20]: 3.5
+[P20]: 10
+[Q20]: 10
+[R20]: 6.6
+[S20]: 6.7
+[T20]: 6.7
+
+=== Row 30 (Data Sample) ===
+[A30]: 17
+[B30]: 720822103081
+[C30]: "KAVIARASAN D"
+[D30]: 4
+[E30]: 4
+[F30]: 3
+[G30]: 3.5
+[H30]: 3.5
+[J30]: 5
+[K30]: 5
+[L30]: 3
+[M30]: 3.5
+[N30]: 3.5
+[P30]: 10
+[Q30]: 10
+[R30]: 6.6
+[S30]: 6.7
+[T30]: 6.7
